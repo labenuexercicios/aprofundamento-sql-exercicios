@@ -6,6 +6,7 @@ Copie as queries do exercício 1 e refatore-as
 
 ## Get All Products versão 1
 - retorna o resultado ordenado pela coluna price em ordem crescente
+- limite o resultado em 20 iniciando pelo primeiro item
 
 ## Get All Products versão 2
 - mocke um intervalo de preços, por exemplo entre 100.00 e 300.00
