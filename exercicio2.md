@@ -16,11 +16,3 @@ Mesmo fluxo do exercício 1.
 ## Delete Product by id
 - mocke uma id
 - delete a linha baseada no valor mockado
-
-## Edit User by id
-- mocke valores para editar
-- edite a linha baseada nos valores mockados
-
-## Edit Product by id
-- mocke valores para editar
-- edite a linha baseada nos valores mockados
