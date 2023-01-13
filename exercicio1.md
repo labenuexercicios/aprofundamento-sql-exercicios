@@ -1,5 +1,6 @@
 # Exercício 1
-Simularemos um planejamento de API. Ainda veremos como conectar o Express com o Banco de dados, então por enquanto desenvolva as queries que serão ativadas em cada endpoint.
+Simularemos um planejamento de API. <br>
+Ainda veremos como conectar o Express com o Banco de dados, então por enquanto desenvolva manualmente as queries que no futuro serão ativadas em cada endpoint.
 
 ## Get All Users
 - retorna todos os usuários cadastrados
