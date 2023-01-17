@@ -2,7 +2,7 @@
 Copie as queries do exercício 1 e refatore-as
 
 ## Get All Users
-- retorna o resultado ordenado pela coluna name em ordem crescente
+- retorna o resultado ordenado pela coluna email em ordem crescente
 
 ## Get All Products versão 1
 - retorna o resultado ordenado pela coluna price em ordem crescente
