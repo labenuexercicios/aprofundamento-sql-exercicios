@@ -9,5 +9,5 @@ Copie as queries do exercício 1 e refatore-as
 - limite o resultado em 20 iniciando pelo primeiro item
 
 ## Get All Products versão 2
-- mocke um intervalo de preços, por exemplo entre 100.00 e 300.00
-- retorna os produtos com preços dentro do intervalo mockado em ordem crescente
+- seleção de um intervalo de preços, por exemplo entre 100.00 e 300.00
+- retorna os produtos com preços dentro do intervalo definido em ordem crescente
