@@ -2,21 +2,16 @@
 Mesmo fluxo do exercício 1.
 
 ## Get Products by id
-- mocke uma id
-- busca baseada no valor mockado
+- busca de produtos por id
 
 ## Delete User by id
-- mocke uma id
-- delete a linha baseada no valor mockado
+- deleção de user por id
 
 ## Delete Product by id
-- mocke uma id
-- delete a linha baseada no valor mockado
+- deleção de produto por id
 
 ## Edit User by id
-- mocke valores para editar um user
-- edite a linha baseada nos valores mockados
+- edição de user por id
 
 ## Edit Product by id
-- mocke valores para editar um product
-- edite a linha baseada nos valores mockados
+- edição de produto por id
