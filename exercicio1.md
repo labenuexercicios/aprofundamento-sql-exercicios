@@ -9,13 +9,13 @@ Ainda veremos como conectar o Express com o Banco de dados, então por enquanto 
 - retorna todos os produtos cadastrados
 
 ## Search Product by name
-- crie um termo de busca, por exemplo "monitor"
+- imagine um termo de busca, por exemplo "monitor"
 - retorna o resultado baseado no termo de busca
 
 ## Create User
-- crie um novo usuário
-- insere o item mockado na tabela users
+- cria um novo usuário
+- insere o item na tabela users
 
 ## Create Product
-- crie um novo produto
-- insere o item mockado na tabela products
+- cria um novo produto
+- insere o item na tabela products
