@@ -1,12 +1,13 @@
 # Exercício 3
-Copie as queries do exercício 1 e refatore-as
+As queries desse exercício não serão utilizadas no projeto, elas servirão apenas para praticar o que foi visto no material assíncrono.
+Copie as queries do exercício 1 e refatore-as.
 
 ## Get All Users
 - retorna o resultado ordenado pela coluna email em ordem crescente
 
 ## Get All Products versão 1
 - retorna o resultado ordenado pela coluna price em ordem crescente
-- limite o resultado em 20 iniciando pelo primeiro item
+- limite o resultado em 3
 
 ## Get All Products versão 2
 - seleção de um intervalo de preços, por exemplo entre 100.00 e 300.00
