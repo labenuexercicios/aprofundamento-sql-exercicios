@@ -12,6 +12,8 @@ Mesmo fluxo do exercício 1.
 
 ## Edit User by id
 - edição de user por id
+- faça a query editar todas as colunas do item
 
 ## Edit Product by id
 - edição de produto por id
+- faça a query editar todas as colunas do item
