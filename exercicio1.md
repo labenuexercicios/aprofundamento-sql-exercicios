@@ -10,4 +10,4 @@ Ainda veremos como conectar o Express com o Banco de dados, então por enquanto 
 
 ## Search Product by name
 - imagine um termo de busca, por exemplo "gamer"
-  - retorna os produtos que possuem em seu nome o termo "gamer"
+  - retorna somente os produtos que possuem em seu nome o termo "gamer"
