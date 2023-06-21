@@ -5,9 +5,9 @@ Ainda veremos como conectar o Express com o Banco de dados, então por enquanto 
 ## Get All Users
 - retorna todas as pessoas cadastradas
 
-## Get All Products
+## Get All Products (funcionalidade 1)
 - retorna todos os produtos cadastrados
 
-## Search Product by name
+## Get all Products (funcionalidade 2)
 - imagine um termo de busca, por exemplo "gamer"
   - retorna somente os produtos que possuem em seu nome o termo "gamer"
