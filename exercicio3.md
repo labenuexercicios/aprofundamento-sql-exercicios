@@ -1,14 +1,12 @@
 # Exercício 3
-As queries desse exercício não serão utilizadas no projeto, elas servirão apenas para praticar o que foi visto no material assíncrono.
-Copie as queries do exercício 1 e refatore-as.
+Mesmo fluxo do exercício 2.
 
-## Get All Users
-- retorna o resultado ordenado pela coluna email em ordem crescente
+## Delete User by id
+- deleção de user por id
 
-## Get All Products versão 1
-- retorna o resultado ordenado pela coluna price em ordem crescente
-- limite o resultado em 3
+## Delete Product by id
+- deleção de produto por id
 
-## Get All Products versão 2
-- seleção de um intervalo de preços, por exemplo entre 100.00 e 300.00
-- retorna os produtos com preços dentro do intervalo definido em ordem crescente
+## Edit Product by id
+- edição de produto por id
+- faça a query editar todas as colunas do item
