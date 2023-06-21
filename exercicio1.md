@@ -13,7 +13,7 @@ Ainda veremos como conectar o Express com o Banco de dados, então por enquanto 
 - retorna o resultado baseado no termo de busca
 
 ## Create User
-- cria um novo usuário
+- cria uma nova pessoa
 - insere o item na tabela users
 
 ## Create Product
