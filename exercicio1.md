@@ -3,13 +3,13 @@ Simularemos um planejamento de API. <br>
 Ainda veremos como conectar o Express com o Banco de dados, então por enquanto desenvolva manualmente as queries que no futuro serão ativadas em cada endpoint.
 
 ## Get All Users
-- retorna todos os usuários cadastrados
+- retorna todas as pessoas cadastradas
 
 ## Get All Products
 - retorna todos os produtos cadastrados
 
 ## Search Product by name
-- imagine um termo de busca, por exemplo "monitor"
+- imagine um termo de busca, por exemplo "gamer"
 - retorna o resultado baseado no termo de busca
 
 ## Create User
