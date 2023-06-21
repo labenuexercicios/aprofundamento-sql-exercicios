@@ -11,11 +11,3 @@ Ainda veremos como conectar o Express com o Banco de dados, então por enquanto 
 ## Search Product by name
 - imagine um termo de busca, por exemplo "gamer"
 - retorna o resultado baseado no termo de busca
-
-## Create User
-- cria uma nova pessoa
-- insere o item na tabela users
-
-## Create Product
-- cria um novo produto
-- insere o item na tabela products
